@@ -34,4 +34,4 @@ const appendFile = async(path , data) => {
 
 writeFile("./example.txt","Hello everyone, ");
 appendFile("./example.txt","I am studying Node.js right now");
-readFile("./example.txt");
+readFile("./example.txt");                                      ````````                                                                            
